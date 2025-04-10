@@ -459,6 +459,13 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "FlyLite", 
+                    "texture": [
+                        "https://i.ibb.co/PzwyZTWM/flylite.png"
+                    ],
+                    "credits": "ASA1282"
+                }
             ],
             "labels": [
                 "Specular shader",
