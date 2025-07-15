@@ -38,6 +38,18 @@
                  "Texture"
              ]
          },
+     "1023": {
+            "name": "McDonnell Douglas MD11",
+             "liveries": [
+                 {
+                     "name": "FlyLite", 
+                     "name": "FlyLite Cargo", 
+                     "texture": [
+                         "https://ibb.co/k6G7sMVh"
+                     ],
+                     "credits": "ASA1282"
+                 }
+        },
          "3289": {
              "name": "Dornier do228-200",
              "liveries": [
